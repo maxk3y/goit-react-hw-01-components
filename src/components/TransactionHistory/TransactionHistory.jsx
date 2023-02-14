@@ -1,5 +1,5 @@
 import { TransactionList } from './TransactionList/TransactionList';
-import { TransactionWrapper, Title } from './TransactionHistory.styled';
+import { TransactionWrapper } from './TransactionHistory.styled';
 
 export const TransactionHistory = ({ transactions }) => {
   return (
